@@ -7,4 +7,4 @@ La placa mide ahora 75x59. Use conectores JST 2.5mm para evitar que los cables s
 Está pensado para usar con DRV8825 con 2 Micropasos, pero si se necesita más es solo empatar el MS0-MS1-MS2. 
 
 Así tiene hasta 256 micropasos.
-![My Image](Images/Esp32_Cnc_Shield_30Pin_SMD_back.png)
+![My Image](Images/Esp32_Cnc_Shield_30Pin_SMD_Back.png)
