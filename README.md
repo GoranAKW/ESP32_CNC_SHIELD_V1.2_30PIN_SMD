@@ -1,10 +1,10 @@
 # ESP32_CNC_SHIELD_V1.2_30PIN_SMD
- Versión SMD 1.2 del ESP32 CNC SHIELD 30Pin
+ SMD V1.2 ESP32 CNC SHIELD 30Pin
  ![My Image](Images/Esp32_Cnc_Shield_30Pin_SMD_front.png)
  
-La placa mide ahora 75x59. Use conectores JST 2.5mm para evitar que los cables se suelten.
+The board now measures 75x59(milimeters). Used JST 2.5mm to avoid loose cables.
 
-Está pensado para usar con DRV8825 con 2 Micropasos, pero si se necesita más es solo empatar el MS0-MS1-MS2. 
+It´s intended for run on DRV8825 driver with  2 microsteps, but if more is needed you can short MS0-MS1-MS2. 
 
-Así tiene hasta 256 micropasos.
+So it get´s up to 256 microsteps.
 ![My Image](Images/Esp32_Cnc_Shield_30Pin_SMD_Back.png)
