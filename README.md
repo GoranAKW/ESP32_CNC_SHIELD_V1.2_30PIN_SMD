@@ -7,4 +7,6 @@ The board now measures 75x59(milimeters). Used JST 2.5mm to avoid loose cables.
 It´s intended for run on DRV8825 driver with  2 microsteps, but if more is needed you can short MS0-MS1-MS2. 
 
 So it get´s up to 256 microsteps.
+
+I recommend to run it with a fan blowing on the drivers and ESP32 module.
 ![My Image](Images/Esp32_Cnc_Shield_30Pin_SMD_Back.png)
